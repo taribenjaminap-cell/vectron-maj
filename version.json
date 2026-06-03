@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "sig": "AmKgK5NN9rlC8JkWTshG7nD5otxqMNO30WDS++gwnNOYCBMkke2olm2wjvzcj37o+nqRFu+4QX8G6lCFQRjrDA==",
-  "notes": "Correctifs et améliorations",
-  "date": "2026-06-02T22:14:03.119Z"
+  "version": "1.1.0",
+  "sig": "ytuFfF1NnlSd2RG42a3wmKWNIQyFt0NBD1pmAzGjk3IIaU5LjAiWev333Bv8DqWxolACqWYpH5HORZiPDZ3kBA==",
+  "notes": "Superposition de courbes (retrofit Masterkit), panneau Essais sous le graphe, code protege",
+  "date": "2026-06-03T00:08:11.358Z"
 }
