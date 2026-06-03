@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "sig": "ytuFfF1NnlSd2RG42a3wmKWNIQyFt0NBD1pmAzGjk3IIaU5LjAiWev333Bv8DqWxolACqWYpH5HORZiPDZ3kBA==",
-  "notes": "Superposition de courbes (retrofit Masterkit), panneau Essais sous le graphe, code protege",
-  "date": "2026-06-03T00:08:11.358Z"
+  "version": "1.2.0",
+  "sig": "ooL0fstn9goeVXvNTiGquh9oh5PCpKGu7mIN723TDrejpQTvjH/IzLx1ULxk/WVRe/gGTeDYi2SdJCPumMpECA==",
+  "notes": "Affichage 3 colonnes, points d'injection suggeres, superposition de courbes + bulles, copie 2 disjoncteurs, version affichee",
+  "date": "2026-06-03T13:11:54.256Z"
 }
