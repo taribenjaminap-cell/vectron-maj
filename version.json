@@ -1,6 +1,6 @@
 {
-  "version": "1.2.1",
-  "sig": "shKMGageU2eI8fsVLbUirAUa+HK5O4yHsdaBrvsYLO8TcWuhFHH1kkxTCsGAtSZKMat41Ms/dzNGZophl5vkBQ==",
-  "notes": "Ligne Essais en gras dans la copie Word",
-  "date": "2026-06-03T13:30:06.267Z"
+  "version": "1.2.2",
+  "sig": "o1LCQFqzhVvJmy0miYpr+19XwKfdVIxaJ0b0A6gMQozUU+FVLSn/m895qTQcA7e1ACOTQQ+zmi45tKUbYAarAQ==",
+  "notes": "Bouton Ajouter le point visible, etiquettes courant+temps sur le graphe, ligne Essais en gras (copie), nom remonte au tableau, apparition instantanee a l activation",
+  "date": "2026-06-03T14:34:50.161Z"
 }
