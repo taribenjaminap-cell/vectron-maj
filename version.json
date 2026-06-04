@@ -1,6 +1,6 @@
 {
-  "version": "1.2.2",
-  "sig": "o1LCQFqzhVvJmy0miYpr+19XwKfdVIxaJ0b0A6gMQozUU+FVLSn/m895qTQcA7e1ACOTQQ+zmi45tKUbYAarAQ==",
-  "notes": "Bouton Ajouter le point visible, etiquettes courant+temps sur le graphe, ligne Essais en gras (copie), nom remonte au tableau, apparition instantanee a l activation",
-  "date": "2026-06-03T14:34:50.161Z"
+  "version": "1.3.0",
+  "sig": "b8/HAOnoV+xrCAQ2B87juHWCseAQeEaPF85AucOTMg3RIBfLf5h2DnntMlPNeRdTT3qRwzsH8ynbKxtBlOSyAA==",
+  "notes": "Catalogue complété (Compact NS 7.x/H/E, NSX 6.2A + lois IDMTL, nouvelle famille Compact C) ; précision corrigée près du seuil ; champs TC retirés (verdict OK/HORS) ; validation Proselect.",
+  "date": "2026-06-04T18:49:28.910Z"
 }
