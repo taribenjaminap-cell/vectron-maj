@@ -1,6 +1,6 @@
 {
-  "version": "1.4.0",
-  "sig": "8tjSMmy2V7k7cBX0VdHGbcQyBKktJA8HorpuL/3nqbVVJqDgsjccxh1gEuyMWo8yG9czo1hM5w3Jm3DxEhngCA==",
-  "notes": "Moteur recalé sur 18 essais réels (17/18) ; capteur réduit (rating plug) ; courbes terre/différentiel (6.x/7.x) ; repère cadran STR ; override par châssis ; 2.0=LS0 ; loi SIT ; instantané OFF correct ; catalogue complété (NS/NSX/Compact C).",
-  "date": "2026-06-04T20:13:31.035Z"
+  "version": "1.4.1",
+  "sig": "IOz79UJvCcNtt1+L8npGaDHabtf/Hj9/clXGl90Aoht5adh/TCmkVvxA/iSZPFq8AGtymp0VuqT8dp0rzCdxCA==",
+  "notes": "NSX 2.2 : ajout du court retard (manquait dans le modèle). Validé sur ~500 essais d'injection réels (95,3% des points dans la bande, NSX 44%->93%).",
+  "date": "2026-06-04T22:46:31.223Z"
 }
