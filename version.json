@@ -1,6 +1,6 @@
 {
-  "version": "1.3.0",
-  "sig": "b8/HAOnoV+xrCAQ2B87juHWCseAQeEaPF85AucOTMg3RIBfLf5h2DnntMlPNeRdTT3qRwzsH8ynbKxtBlOSyAA==",
-  "notes": "Catalogue complété (Compact NS 7.x/H/E, NSX 6.2A + lois IDMTL, nouvelle famille Compact C) ; précision corrigée près du seuil ; champs TC retirés (verdict OK/HORS) ; validation Proselect.",
-  "date": "2026-06-04T18:49:28.910Z"
+  "version": "1.4.0",
+  "sig": "8tjSMmy2V7k7cBX0VdHGbcQyBKktJA8HorpuL/3nqbVVJqDgsjccxh1gEuyMWo8yG9czo1hM5w3Jm3DxEhngCA==",
+  "notes": "Moteur recalé sur 18 essais réels (17/18) ; capteur réduit (rating plug) ; courbes terre/différentiel (6.x/7.x) ; repère cadran STR ; override par châssis ; 2.0=LS0 ; loi SIT ; instantané OFF correct ; catalogue complété (NS/NSX/Compact C).",
+  "date": "2026-06-04T20:13:31.035Z"
 }
