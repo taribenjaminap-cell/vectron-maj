@@ -1,6 +1,6 @@
 {
-  "version": "1.4.1",
-  "sig": "IOz79UJvCcNtt1+L8npGaDHabtf/Hj9/clXGl90Aoht5adh/TCmkVvxA/iSZPFq8AGtymp0VuqT8dp0rzCdxCA==",
-  "notes": "NSX 2.2 : ajout du court retard (manquait dans le modèle). Validé sur ~500 essais d'injection réels (95,3% des points dans la bande, NSX 44%->93%).",
-  "date": "2026-06-04T22:46:31.223Z"
+  "version": "1.4.2",
+  "sig": "w+Nhoh+D7injM2jc0LKEmz2Jukvmgjw+2hUsw3aVyo47xDq3SYMSvkjsXFS5UzlLiBZL7ZiJFgGSr/Yt+CH8Dw==",
+  "notes": "Unité MicroLogic 2.2 AB (générateur, tr @1,5·Ir). NSX validé 84/84=100% sur données valise réelles.",
+  "date": "2026-06-04T23:10:59.310Z"
 }
