@@ -1,6 +1,6 @@
 {
-  "version": "1.4.3",
-  "sig": "z+aoJ9TjCI6ZilUC04VZmQEmTpVW+x8DlKipXM1Q3jnr+WJBI8mdDilAJR8Vydon1JQ6qCMti++J40EUOlpPDw==",
-  "notes": "Bandes recalées sur valise d'injection réelle : instantané dès 10 ms ; borne haute long retard +8% (attrape les disjoncteurs trop lents) ; override resserré. EIT/SIT/VIT vérifiés corrects. Validé sur ~600 mesures terrain.",
-  "date": "2026-06-05T00:09:44.286Z"
+  "version": "1.4.4",
+  "sig": "CLwRnns2d4xOzJrCMz2iXgQLT71nUCMSqnsd6ePjpizMiwHX5LIsqlrlxJO/AsQenWVZbvM3dA7c8l/pXpMcBA==",
+  "notes": "MTZ MicroLogic 2.0X: court retard complet (corrige faux HORS) + loi SIT recalee inverse standard CEI + court retard tsd 0.2 elargi. Valide Schneider Curve Direct + 600 essais reels.",
+  "date": "2026-06-05T08:01:49.307Z"
 }
