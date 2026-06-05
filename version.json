@@ -1,6 +1,6 @@
 {
-  "version": "1.4.8",
-  "sig": "p1R1L76Om6fayl7/toqFSBchttadysUCs0rNcueiy4HQcDB8EeNpbEaaTp1mx+6MsGkwdy8cwQcGmWV4sVutDA==",
-  "notes": "Bande long retard: montee douce 'cap thermique' pres du seuil (calee sur Curve Direct + doc Schneider) au lieu du coude parabolique. Plus realiste, conforme a la tolerance documentee -20pct qui s'elargit au seuil.",
-  "date": "2026-06-05T11:41:09.337Z"
+  "version": "1.4.9",
+  "sig": "ZsUX6aZkuWIpxq2tzXuzs25wzi9pMs4eMr9v9ybCMrVzTt384BCMU/NkgLxRDdIwkBXOv336BZzYnvN7Ru7uBQ==",
+  "notes": "Verdict plus strict et tracable : tolerance tr MicroLogic X conditionnelle (-20/-25/-30pct selon tr), cote lent resserre (securite sous-protection), regle de decision affichee. Etiquetage honnete : HVF = courbe proprietaire Schneider (pas IEC). Valide sur 246 essais : 0 faux-positif, 2 Micrologic HS detectees.",
+  "date": "2026-06-05T23:30:27.338Z"
 }
