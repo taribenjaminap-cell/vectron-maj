@@ -1,6 +1,6 @@
 {
-  "version": "1.4.5",
-  "sig": "qtZ2c27sht2/YLFMkiIWyqnl+thMlJe5ai5vUGnr11A5R0mLjj/ODCsKklmTcmqLoOCYtpTtZ9a1O6Et7Jn7DQ==",
-  "notes": "Precision court retard et instantane: le long retard ne rabote plus le palier court retard ni la fenetre de coupure (corrige faux HORS). Jonction long/court retard elargie (dispersion reelle). Valide 600 essais + 12 injections MTZ EcoStruxure, detection 7/7 intacte.",
-  "date": "2026-06-05T08:51:08.934Z"
+  "version": "1.4.6",
+  "sig": "gmIJWAuwL5LZ03at4OXiB/6SWlw6WC0ftha/yzz8eUKrvAk+KA8VwvQ3H1tRSiVZLLZjLrOhfHyb9FBCt7ItDQ==",
+  "notes": "Loi long retard HVFuse (mimique fusible HT) ajoutee comme 5e loi IDMTL, confirmee sur Schneider Curve Direct. Selectionnable sur MicroLogic P/H/X.",
+  "date": "2026-06-05T09:00:10.601Z"
 }
