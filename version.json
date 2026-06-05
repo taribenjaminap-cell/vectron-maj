@@ -1,6 +1,6 @@
 {
-  "version": "1.4.2",
-  "sig": "w+Nhoh+D7injM2jc0LKEmz2Jukvmgjw+2hUsw3aVyo47xDq3SYMSvkjsXFS5UzlLiBZL7ZiJFgGSr/Yt+CH8Dw==",
-  "notes": "Unité MicroLogic 2.2 AB (générateur, tr @1,5·Ir). NSX validé 84/84=100% sur données valise réelles.",
-  "date": "2026-06-04T23:10:59.310Z"
+  "version": "1.4.3",
+  "sig": "z+aoJ9TjCI6ZilUC04VZmQEmTpVW+x8DlKipXM1Q3jnr+WJBI8mdDilAJR8Vydon1JQ6qCMti++J40EUOlpPDw==",
+  "notes": "Bandes recalées sur valise d'injection réelle : instantané dès 10 ms ; borne haute long retard +8% (attrape les disjoncteurs trop lents) ; override resserré. EIT/SIT/VIT vérifiés corrects. Validé sur ~600 mesures terrain.",
+  "date": "2026-06-05T00:09:44.286Z"
 }
