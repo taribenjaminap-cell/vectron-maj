@@ -1,6 +1,6 @@
 {
-  "version": "1.4.6",
-  "sig": "MytOoUn9SL66EHGf0YEWDSGW+3RGY6vDUBJOAWZJR4WYgwSMVFaEwkfuJA1/o/h5jDFoEJCl3wTCqNaGMmo6Dw==",
-  "notes": "Loi long retard HVFuse (mimique fusible HT) ajoutee comme 5e loi IDMTL, confirmee sur Schneider Curve Direct. Selectionnable sur MicroLogic P/H/X.",
-  "date": "2026-06-05T09:00:42.682Z"
+  "version": "1.4.7",
+  "sig": "5uWEWPfCsY6IGbGDs3kq9JDjYedW/IluVpMiQznX3uIWXEU4uR92s8Ue0T8DKRn4AGYeioHcWM7SYm+ZDBzsCw==",
+  "notes": "Courbe long retard: montee verticale au seuil (asymptote de non-declenchement), rendu realiste comme les vraies courbes Schneider. Affichage uniquement, calibration inchangee.",
+  "date": "2026-06-05T09:44:59.013Z"
 }
