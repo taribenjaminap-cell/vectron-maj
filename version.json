@@ -1,6 +1,6 @@
 {
-  "version": "1.4.9",
-  "sig": "ZsUX6aZkuWIpxq2tzXuzs25wzi9pMs4eMr9v9ybCMrVzTt384BCMU/NkgLxRDdIwkBXOv336BZzYnvN7Ru7uBQ==",
-  "notes": "Verdict plus strict et tracable : tolerance tr MicroLogic X conditionnelle (-20/-25/-30pct selon tr), cote lent resserre (securite sous-protection), regle de decision affichee. Etiquetage honnete : HVF = courbe proprietaire Schneider (pas IEC). Valide sur 246 essais : 0 faux-positif, 2 Micrologic HS detectees.",
-  "date": "2026-06-05T23:30:27.338Z"
+  "version": "1.5.3",
+  "sig": "Y2mYrh7zl/dOkx2ZvsRQMW68R1Y4XuzmRyvaBheDvI2qvepjc9Vd3b6gnrhWkzGvML82Dx8Op0mbFMuWpGX0Cg==",
+  "notes": "Correctifs et améliorations",
+  "date": "2026-06-06T19:53:25.334Z"
 }
