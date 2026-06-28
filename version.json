@@ -1,6 +1,6 @@
 {
-  "version": "1.6.24",
-  "sig": "R93Hgn7JNnzCkb+4SZuAR+g4rCYD0umUx5vHNlsJkKyzaCudGwQ/ts/p9IPXzj2EX/0OFj0avilUu+q2vg2DCQ==",
-  "notes": "Protection terre (defaut terre G + differentiel V), courbe TM-D corrigee, instantane Masterpact M 20-80ms, saisie injection en A/mA et s/ms",
-  "date": "2026-06-28T21:38:25.070Z"
+  "version": "1.6.26",
+  "sig": "y6iz25e9gXhhZYX2jRru8Ou7IlfJXEqQXqDrDWqpDtBBMlbltCDdMdjoDw+m+e81irH3KWqLLSonCaP/0XP7Aw==",
+  "notes": "Nouvelles unites NSX : Micrologic 4.2/4.3 (LSI + differentiel), 4.2/4.3 AB generateur, 7.2 E (LSIV), TM-G generateur (thermique + magnetique reglable). Liste des unites reordonnee.",
+  "date": "2026-06-28T22:29:50.494Z"
 }
