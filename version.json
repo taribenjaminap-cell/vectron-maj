@@ -1,6 +1,6 @@
 {
-  "version": "1.6.26",
-  "sig": "y6iz25e9gXhhZYX2jRru8Ou7IlfJXEqQXqDrDWqpDtBBMlbltCDdMdjoDw+m+e81irH3KWqLLSonCaP/0XP7Aw==",
-  "notes": "Nouvelles unites NSX : Micrologic 4.2/4.3 (LSI + differentiel), 4.2/4.3 AB generateur, 7.2 E (LSIV), TM-G generateur (thermique + magnetique reglable). Liste des unites reordonnee.",
-  "date": "2026-06-28T22:29:50.494Z"
+  "version": "1.6.27",
+  "sig": "GjpjRTaeB9MvsxJ/i7UjChiuWjEVnRXIPMZHONJTxjbDQFL2CkP/O60EVpvY9KBV34oPjEMwnP1w6nDpm91JAw==",
+  "notes": "Ameliorations internes et stabilite.",
+  "date": "2026-06-28T23:36:00.200Z"
 }
