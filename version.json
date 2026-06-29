@@ -1,6 +1,6 @@
 {
-  "version": "1.6.27",
-  "sig": "GjpjRTaeB9MvsxJ/i7UjChiuWjEVnRXIPMZHONJTxjbDQFL2CkP/O60EVpvY9KBV34oPjEMwnP1w6nDpm91JAw==",
-  "notes": "Ameliorations internes et stabilite.",
-  "date": "2026-06-28T23:36:00.200Z"
+  "version": "1.6.28",
+  "sig": "hG9iSd2lD2F9Ajr42onbjrRvm7110P1oto3P5/Va/s+soKOYO2tPIMSekBS0SwksUp+tBDhYAhS4+qbYWP5fCQ==",
+  "notes": "Correctif d'affichage.",
+  "date": "2026-06-29T19:06:11.404Z"
 }
