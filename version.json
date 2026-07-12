@@ -1,6 +1,6 @@
 {
-  "version": "1.6.36",
-  "sig": "53yDcSqQdpcRHZXscgn3e5mSMrGKJmQFmwHwrXOKK8RQMrTJ9EMNTFFo8O6a1ixyhjZL9Hmvk6QjIPS/jsPBBw==",
-  "notes": "Fiabilite des courbes : toutes les caracteristiques (long-retard, court-retard, instantane, magneto-thermique, STR) sont desormais reconstruites a partir des documents constructeur publics (DOCA, IEC 60947-2 / 60255-151, brevets). Correctifs : plancher de temporisation long-retard aligne sur le cran minimum normalise (0,5 s) ; long-retard generateur a temporisation fixe (conforme MicroLogic 2 G) ; retrait du declencheur TM-G (non representable au calibre chassis) ; tolerances STR alignees sur le guide technique. Aucune regression (banc de controle 15 372 valeurs).",
-  "date": "2026-07-12T16:45:12.493Z"
+  "version": "1.6.37",
+  "sig": "7Rgg9z7KLs/7wPKMVIiGUBCcajy2tTv0xvMFiqRDRMRCZUHV7Gtdt2JJbtYzUEVFHo/iNBvx7ht9AXm3PEnbDg==",
+  "notes": "Correction majeure des courbes magneto-thermiques TM-D : les caracteristiques temps-courant sont desormais extraites directement des courbes officielles Schneider (DOCA0140, figures TM80D a TM250D) au lieu d'une approximation. L'ancienne courbe thermique etait environ 2,2x trop lente ; les temps de declenchement sont corriges et colles au document constructeur (verifie par superposition sur le trace). Concerne les Compact NSX 100/160/250 et NSXm a declencheur TM-D.",
+  "date": "2026-07-12T17:12:48.563Z"
 }
