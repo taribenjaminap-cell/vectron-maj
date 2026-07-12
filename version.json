@@ -1,6 +1,6 @@
 {
-  "version": "1.6.30",
-  "sig": "+TlN3gkaXm607ojBf79Rbwmh7N157pSsaltrZ8e8a2vX6mUEW6z+v2/43y27BjxHzfsAKvAKMAMVWU7TQNXZBQ==",
-  "notes": "Override Masterpact NT par classe + bouton Sources documentaires.",
-  "date": "2026-07-12T00:40:37.228Z"
+  "version": "1.6.31",
+  "sig": "1cpRQX8heCeP6I2k1eN+kQsqiCKt+OA/ClA3VP9kPXk81h4JgZAlSLq2jwFc6GvgCTEbS7bq+GND6vj3U7N8Dg==",
+  "notes": "Correction de la courbe defaut terre et differentiel (loi temps-constant / I2t selon documentation constructeur).",
+  "date": "2026-07-12T01:25:49.808Z"
 }
