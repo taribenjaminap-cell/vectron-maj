@@ -1,6 +1,6 @@
 {
-  "version": "1.6.42",
-  "sig": "GayelVnI7vWt5Lo7BxDs8g0W0x8bPy/A5iSR+nUDzoJRoUoifYXggE5kdXv40twCbrL6pih+5E3DXJeWkjzYCg==",
-  "notes": "Correction des variantes de declencheurs Masterpact M selon le Guide public T538 : STR18M = protection instantanee SEULE (sans long-retard) ; STR28D et STR38S = temporisation long-retard FIXE (non reglable ; l'ancienne version proposait a tort des crans reglables) ; STR28D sans court-retard temporise (instantane reglable). STR58U et STR68U (tr reglable 15-480s) inchanges. Superposition verifiee sur le trace officiel du T538.",
-  "date": "2026-07-12T22:37:49.389Z"
+  "version": "1.6.43",
+  "sig": "wYQTG5aD0NDmN6ra79jaxyBeV9v1N+jMzggRKlKMGG8UdbOtO4/moWW7GXNOslOiAv7De2L2Gd1SVkkjjiW4Dg==",
+  "notes": "Fiabilisation apres verification multi-sources : Masterpact M STR28D/STR38S temporisation fixe recalee a 7,5 s a 6xIr (confirme catalogue Square D, 2e source independante du T538) ; Compact NSXm seuils magnetiques Im cales sur les valeurs exactes du catalogue officiel LVPED217032EN (courbe TM-D NSXm confirmee identique a la NSX) ; precision seuil court-retard STR23SE a plus ou moins 15 pourcent (catalogue Compact NS). Bandes de tolerance verifiees conformes aux specifications publiques Schneider/IEC.",
+  "date": "2026-07-12T23:18:56.641Z"
 }
