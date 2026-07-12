@@ -1,6 +1,6 @@
 {
-  "version": "1.6.41",
-  "sig": "RdTezIQaBku/P4VqpCpPhtcZlctgNqGj7tOgniebmW4Lv0E4zUY5QW07H9JYMjmEHyWViHa78kgZhAjOkW3nDg==",
-  "notes": "Affinement de la courbe long-retard du declencheur STR23SE (Compact NS) recalee sur la courbe publique du catalogue (t a 6xIr ~5,9 s, conforme aux essais reels), corrigeant un decalage d'environ 25 pourcent. Superposition verifiee sur le trace officiel.",
-  "date": "2026-07-12T22:03:48.754Z"
+  "version": "1.6.42",
+  "sig": "GayelVnI7vWt5Lo7BxDs8g0W0x8bPy/A5iSR+nUDzoJRoUoifYXggE5kdXv40twCbrL6pih+5E3DXJeWkjzYCg==",
+  "notes": "Correction des variantes de declencheurs Masterpact M selon le Guide public T538 : STR18M = protection instantanee SEULE (sans long-retard) ; STR28D et STR38S = temporisation long-retard FIXE (non reglable ; l'ancienne version proposait a tort des crans reglables) ; STR28D sans court-retard temporise (instantane reglable). STR58U et STR68U (tr reglable 15-480s) inchanges. Superposition verifiee sur le trace officiel du T538.",
+  "date": "2026-07-12T22:37:49.389Z"
 }
