@@ -1,6 +1,6 @@
 {
-  "version": "1.6.31",
-  "sig": "1cpRQX8heCeP6I2k1eN+kQsqiCKt+OA/ClA3VP9kPXk81h4JgZAlSLq2jwFc6GvgCTEbS7bq+GND6vj3U7N8Dg==",
-  "notes": "Correction de la courbe defaut terre et differentiel (loi temps-constant / I2t selon documentation constructeur).",
-  "date": "2026-07-12T01:25:49.808Z"
+  "version": "1.6.32",
+  "sig": "ol571DcKavMctQ8qGT48h4jzux+zQkpQu2unNduP46IryNIICjwA2sdAQH/jcd0aUJOOIVLDj+IoZq/Oiz1dCw==",
+  "notes": "Courbe terre/differentiel : correction du trace (montee verticale au seuil, comme la phase) sur toutes les familles MTZ, NW/NT, NS, NSX.",
+  "date": "2026-07-12T12:10:00.359Z"
 }
