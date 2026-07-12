@@ -1,6 +1,6 @@
 {
-  "version": "1.6.39",
-  "sig": "d3FTlkOfwMzO/xeHZUnYx0Tbuavh45wtOIAhRHEI2vLlqMzbWOvIzrZ3WNgHaug/sJYYLOHLrewKvR07tytbAw==",
-  "notes": "Courbes Compact NS (declencheur STR23SE) recalees sur le catalogue PUBLIC Schneider Compact NS 80-3200 (Tripping curves p.250) : temporisation long-retard rendue FIXE (non reglable, conforme au document — l'ancienne version proposait a tort des crans reglables) et seuil court-retard Isd corrige a 2-10 x Ir. Avec cette mise a jour, toutes les gammes (MTZ, NW, NT, NSX, M, NS) reposent sur des documents constructeur publics.",
-  "date": "2026-07-12T21:12:34.979Z"
+  "version": "1.6.40",
+  "sig": "2f0iBmzE05psjpA7o1uuUxRevBY+kL64EFT27mTBoBVVsaLHc2cu5w5RUkxCSdqdrnscjls7QbHToP+PVeGdBg==",
+  "notes": "Ajout du declencheur electronique a differentiel pour Compact NSXm (version earth-leakage / ELCB) : protection long-retard (image-thermique, temporisation fixe) + court-retard reglable Isd 1,5-10 x Ir + instantane fixe 15 x In + differentiel, recalee sur le guide public Schneider DOCA0185 (verifie : 200 s a 1,5 Ir / 8 s a 6 Ir). Corrige une omission : le NSXm ne proposait que le declencheur thermique-magnetique TM-D.",
+  "date": "2026-07-12T21:38:54.914Z"
 }
