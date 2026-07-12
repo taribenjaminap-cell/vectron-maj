@@ -1,6 +1,6 @@
 {
-  "version": "1.6.29",
-  "sig": "+zuB7jrMUI2adIcK0mWQsyK46t0ExyMqA22BMp/cltF+opLEqpHpAfuQOqE4Mx+cQDZcc4RYDxDjfjKDyz06DQ==",
-  "notes": "Ameliorations et corrections.",
-  "date": "2026-07-11T14:47:15.162Z"
+  "version": "1.6.30",
+  "sig": "+TlN3gkaXm607ojBf79Rbwmh7N157pSsaltrZ8e8a2vX6mUEW6z+v2/43y27BjxHzfsAKvAKMAMVWU7TQNXZBQ==",
+  "notes": "Override Masterpact NT par classe + bouton Sources documentaires.",
+  "date": "2026-07-12T00:40:37.228Z"
 }
