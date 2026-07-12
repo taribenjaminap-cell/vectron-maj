@@ -1,6 +1,6 @@
 {
-  "version": "1.6.34",
-  "sig": "ivh8TYhs720gPr3Q3epksS1U2zvmrjOPEgza+O6oOUgxjCdJI10tdxEaXydzULfcic60YaE4ZN7nKrB8waTLCA==",
-  "notes": "Compact NS : TM-D retire (le NS630b-3200 est electronique - MicroLogic exclusif, catalogue Schneider) ; references documentaires ajoutees (DOCA0217/0218/0219).",
-  "date": "2026-07-12T14:11:19.825Z"
+  "version": "1.6.35",
+  "sig": "hpLreUMjFltsA5apc9HreppoXhP1Wbv2xY9I5pyX5nNBP8idPRy9MF3k9DiR+94JCskPlUOUjMYXK8q0cSu4Bg==",
+  "notes": "Compact NSXm : magnetique TM-D corrige (fixe par calibre 500-1250 A selon DOCA0185) + axe graphe etendu pour les petits calibres.",
+  "date": "2026-07-12T14:55:36.691Z"
 }
