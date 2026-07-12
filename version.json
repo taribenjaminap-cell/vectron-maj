@@ -1,6 +1,6 @@
 {
-  "version": "1.6.37",
-  "sig": "7Rgg9z7KLs/7wPKMVIiGUBCcajy2tTv0xvMFiqRDRMRCZUHV7Gtdt2JJbtYzUEVFHo/iNBvx7ht9AXm3PEnbDg==",
-  "notes": "Correction majeure des courbes magneto-thermiques TM-D : les caracteristiques temps-courant sont desormais extraites directement des courbes officielles Schneider (DOCA0140, figures TM80D a TM250D) au lieu d'une approximation. L'ancienne courbe thermique etait environ 2,2x trop lente ; les temps de declenchement sont corriges et colles au document constructeur (verifie par superposition sur le trace). Concerne les Compact NSX 100/160/250 et NSXm a declencheur TM-D.",
-  "date": "2026-07-12T17:12:48.563Z"
+  "version": "1.6.38",
+  "sig": "PRAuXYPzRGpeH8se2bm+/gCX2p0m7+5sQT51dBDwOeIzP2DsrGAlla48pAmMEVcCVQKJ1mcnoTeh4UcAKJZwDA==",
+  "notes": "Courbes Masterpact M (declencheurs STR) recalees sur le Guide technique PUBLIC Merlin Gerin T538 (courbes STR58U/STR68U). Long-retard confirme en I2t pur conforme au document. Plage de temporisation long-retard completee (cran 15 s ajoute). Correction du plateau court-retard (Delta t) : suit desormais les crans officiels 0/0,1/0,2/0,3/0,4 s au lieu d'une valeur heritee erronee. Aucune autre courbe touchee.",
+  "date": "2026-07-12T21:03:15.683Z"
 }
