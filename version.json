@@ -1,6 +1,6 @@
 {
-  "version": "1.6.33",
-  "sig": "O4S2fM5uJlzjQ93rR+NsZckkp0gnrZ/rmdJf2pXuy7IwTYaFSX+30k0nEnUpeU0JTLsYt4KKhzjkIDJv/ri3AQ==",
-  "notes": "NSX 400/630 completes (MicroLogic 5.3/6.3/7.3) ; declencheurs filtres par calibre ; TM-D corrige (magnetique par calibre) et limite aux 100-250 A ; references documentaires ajoutees.",
-  "date": "2026-07-12T14:03:25.081Z"
+  "version": "1.6.34",
+  "sig": "ivh8TYhs720gPr3Q3epksS1U2zvmrjOPEgza+O6oOUgxjCdJI10tdxEaXydzULfcic60YaE4ZN7nKrB8waTLCA==",
+  "notes": "Compact NS : TM-D retire (le NS630b-3200 est electronique - MicroLogic exclusif, catalogue Schneider) ; references documentaires ajoutees (DOCA0217/0218/0219).",
+  "date": "2026-07-12T14:11:19.825Z"
 }
