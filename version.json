@@ -1,6 +1,6 @@
 {
-  "version": "1.6.43",
-  "sig": "wYQTG5aD0NDmN6ra79jaxyBeV9v1N+jMzggRKlKMGG8UdbOtO4/moWW7GXNOslOiAv7De2L2Gd1SVkkjjiW4Dg==",
-  "notes": "Fiabilisation apres verification multi-sources : Masterpact M STR28D/STR38S temporisation fixe recalee a 7,5 s a 6xIr (confirme catalogue Square D, 2e source independante du T538) ; Compact NSXm seuils magnetiques Im cales sur les valeurs exactes du catalogue officiel LVPED217032EN (courbe TM-D NSXm confirmee identique a la NSX) ; precision seuil court-retard STR23SE a plus ou moins 15 pourcent (catalogue Compact NS). Bandes de tolerance verifiees conformes aux specifications publiques Schneider/IEC.",
-  "date": "2026-07-12T23:18:56.641Z"
+  "version": "1.6.44",
+  "sig": "ifCeZDXWySp4oNAYHQRNUqrC5moAgA4g+HwXPFHQoikwoUbbtesDWkvSPrOEvPsg+8x3LeboFB7PZ2aJpRODDg==",
+  "notes": "Fiabilisation renforcee (verification par 10 sources independantes) : bandes de temps du court-retard confirmees PUBLIQUES (DOCA0102/0141/0188) ; courbe thermique TM-D confirmee UNIVERSELLE (NSX250 aligne sur 100/160) ; declencheur electronique NSXm plage Ir corrigee a 0,4-1xIn ; terre/differentiel, IDMTL MTZ, table long-retard NW/NT et generateur re-confirmes. Aucune contradiction trouvee par l'agent adversaire.",
+  "date": "2026-07-12T23:45:50.318Z"
 }
