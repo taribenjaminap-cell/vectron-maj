@@ -1,6 +1,6 @@
 {
-  "version": "1.6.38",
-  "sig": "PRAuXYPzRGpeH8se2bm+/gCX2p0m7+5sQT51dBDwOeIzP2DsrGAlla48pAmMEVcCVQKJ1mcnoTeh4UcAKJZwDA==",
-  "notes": "Courbes Masterpact M (declencheurs STR) recalees sur le Guide technique PUBLIC Merlin Gerin T538 (courbes STR58U/STR68U). Long-retard confirme en I2t pur conforme au document. Plage de temporisation long-retard completee (cran 15 s ajoute). Correction du plateau court-retard (Delta t) : suit desormais les crans officiels 0/0,1/0,2/0,3/0,4 s au lieu d'une valeur heritee erronee. Aucune autre courbe touchee.",
-  "date": "2026-07-12T21:03:15.683Z"
+  "version": "1.6.39",
+  "sig": "d3FTlkOfwMzO/xeHZUnYx0Tbuavh45wtOIAhRHEI2vLlqMzbWOvIzrZ3WNgHaug/sJYYLOHLrewKvR07tytbAw==",
+  "notes": "Courbes Compact NS (declencheur STR23SE) recalees sur le catalogue PUBLIC Schneider Compact NS 80-3200 (Tripping curves p.250) : temporisation long-retard rendue FIXE (non reglable, conforme au document — l'ancienne version proposait a tort des crans reglables) et seuil court-retard Isd corrige a 2-10 x Ir. Avec cette mise a jour, toutes les gammes (MTZ, NW, NT, NSX, M, NS) reposent sur des documents constructeur publics.",
+  "date": "2026-07-12T21:12:34.979Z"
 }
