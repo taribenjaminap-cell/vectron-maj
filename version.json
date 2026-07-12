@@ -1,6 +1,6 @@
 {
-  "version": "1.6.32",
-  "sig": "ol571DcKavMctQ8qGT48h4jzux+zQkpQu2unNduP46IryNIICjwA2sdAQH/jcd0aUJOOIVLDj+IoZq/Oiz1dCw==",
-  "notes": "Courbe terre/differentiel : correction du trace (montee verticale au seuil, comme la phase) sur toutes les familles MTZ, NW/NT, NS, NSX.",
-  "date": "2026-07-12T12:10:00.359Z"
+  "version": "1.6.33",
+  "sig": "O4S2fM5uJlzjQ93rR+NsZckkp0gnrZ/rmdJf2pXuy7IwTYaFSX+30k0nEnUpeU0JTLsYt4KKhzjkIDJv/ri3AQ==",
+  "notes": "NSX 400/630 completes (MicroLogic 5.3/6.3/7.3) ; declencheurs filtres par calibre ; TM-D corrige (magnetique par calibre) et limite aux 100-250 A ; references documentaires ajoutees.",
+  "date": "2026-07-12T14:03:25.081Z"
 }
