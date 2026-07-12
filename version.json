@@ -1,6 +1,6 @@
 {
-  "version": "1.6.40",
-  "sig": "2f0iBmzE05psjpA7o1uuUxRevBY+kL64EFT27mTBoBVVsaLHc2cu5w5RUkxCSdqdrnscjls7QbHToP+PVeGdBg==",
-  "notes": "Ajout du declencheur electronique a differentiel pour Compact NSXm (version earth-leakage / ELCB) : protection long-retard (image-thermique, temporisation fixe) + court-retard reglable Isd 1,5-10 x Ir + instantane fixe 15 x In + differentiel, recalee sur le guide public Schneider DOCA0185 (verifie : 200 s a 1,5 Ir / 8 s a 6 Ir). Corrige une omission : le NSXm ne proposait que le declencheur thermique-magnetique TM-D.",
-  "date": "2026-07-12T21:38:54.914Z"
+  "version": "1.6.41",
+  "sig": "RdTezIQaBku/P4VqpCpPhtcZlctgNqGj7tOgniebmW4Lv0E4zUY5QW07H9JYMjmEHyWViHa78kgZhAjOkW3nDg==",
+  "notes": "Affinement de la courbe long-retard du declencheur STR23SE (Compact NS) recalee sur la courbe publique du catalogue (t a 6xIr ~5,9 s, conforme aux essais reels), corrigeant un decalage d'environ 25 pourcent. Superposition verifiee sur le trace officiel.",
+  "date": "2026-07-12T22:03:48.754Z"
 }
