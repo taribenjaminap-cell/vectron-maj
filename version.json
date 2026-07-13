@@ -1,6 +1,6 @@
 {
-  "version": "1.6.45",
-  "sig": "mxH49uRd0PHkW7V0DTgD10cqiZSrFa2EuZozfc4DJhqElpBrwGPP3WkbP5g4VpQ4iPQKVJBUz9z94lL5KFioDA==",
-  "notes": "Courbe long-retard EIT (Extremely Inverse Time) des declencheurs MicroLogic corrigee pour suivre la norme IEC 60255-151 type C (alpha=2), conformement a la specification Schneider DOCA0102. L'ancienne approximation etait un calage errone. Concerne uniquement la courbe optionnelle EIT (SIT/VIT/HVF/I2t etaient deja conformes).",
-  "date": "2026-07-13T00:01:32.158Z"
+  "version": "1.6.46",
+  "sig": "oU9rG1opbxzAO2GZZFVRNtu1XeZ9xXA+Yf3UBCYnCcXfcwl1TwNd2f0X7Ik1+9R6kyw1aiW3G+Q7ITlAUc6LCQ==",
+  "notes": "Mise a jour du panneau Sources & documents : referencement complet des documents publics reellement utilises et verifies par gamme (catalogue ComPact NSX&NSXm LVPED217032EN, catalogue Compact NS 80-3200, Guide T538 + catalogue Square D pour Masterpact M, DOCA0102/0140/0185/0187/0188, datasheet 04443722AA, bulletin 48049, normes CEI 60255-151 / 60947-2, brevets Merlin Gerin).",
+  "date": "2026-07-13T00:15:49.400Z"
 }
