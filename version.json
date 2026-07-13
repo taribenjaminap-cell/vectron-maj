@@ -1,6 +1,6 @@
 {
-  "version": "1.6.44",
-  "sig": "ifCeZDXWySp4oNAYHQRNUqrC5moAgA4g+HwXPFHQoikwoUbbtesDWkvSPrOEvPsg+8x3LeboFB7PZ2aJpRODDg==",
-  "notes": "Fiabilisation renforcee (verification par 10 sources independantes) : bandes de temps du court-retard confirmees PUBLIQUES (DOCA0102/0141/0188) ; courbe thermique TM-D confirmee UNIVERSELLE (NSX250 aligne sur 100/160) ; declencheur electronique NSXm plage Ir corrigee a 0,4-1xIn ; terre/differentiel, IDMTL MTZ, table long-retard NW/NT et generateur re-confirmes. Aucune contradiction trouvee par l'agent adversaire.",
-  "date": "2026-07-12T23:45:50.318Z"
+  "version": "1.6.45",
+  "sig": "mxH49uRd0PHkW7V0DTgD10cqiZSrFa2EuZozfc4DJhqElpBrwGPP3WkbP5g4VpQ4iPQKVJBUz9z94lL5KFioDA==",
+  "notes": "Courbe long-retard EIT (Extremely Inverse Time) des declencheurs MicroLogic corrigee pour suivre la norme IEC 60255-151 type C (alpha=2), conformement a la specification Schneider DOCA0102. L'ancienne approximation etait un calage errone. Concerne uniquement la courbe optionnelle EIT (SIT/VIT/HVF/I2t etaient deja conformes).",
+  "date": "2026-07-13T00:01:32.158Z"
 }
